@@ -78,14 +78,14 @@ Name + Email + Description + Image
 ### Backend
 
 ```
-cd support-system-api
+cd server
 dotnet run
 ```
 
 ### Frontend
 
 ```
-cd support-system-client
+cd client
 pnpm install
 pnpm dev
 ```
